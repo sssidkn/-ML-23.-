@@ -1,0 +1,2 @@
+test/files/base.py test/plagiat2/base.py
+test/files/lossy.py test/plagiat2/lossy.py
